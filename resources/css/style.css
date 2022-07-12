@@ -1,0 +1,38 @@
+body {
+    background: black;
+    margin: 0;
+    padding: 0;
+    text-align: center;
+    font-family: Verdana;
+}
+
+.s1 h1 { 
+    font-weight: normal;
+    font-size: 50px;
+    color: white;   
+}
+
+a {
+    font-size: 16px;
+    color: aquamarine;
+}
+
+/** h2 text from s2 and s3 **/
+h2 {   
+    font-weight: 300;
+    font-size: 42px;
+    color: white;
+}
+p {
+    font-size: 21px;
+    color: gray;
+}
+
+img, 
+video {
+    margin-top: 34px;
+}
+
+footer {
+    text-align: right;
+}
